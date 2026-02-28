@@ -1,2 +1,2 @@
-# Data_structure_lab
+# Data-structure-lab
 c++ programs
